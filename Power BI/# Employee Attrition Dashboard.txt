@@ -1,0 +1,34 @@
+# Employee Attrition Dashboard
+
+## Overview
+
+Welcome to the Employee Attrition Dashboard! This dashboard provides insights into employee attrition trends based on a comprehensive dataset containing various employee attributes. Utilizing Power BI, this interactive dashboard offers visualizations and analysis to understand factors influencing attrition rates within the organization.
+
+## Key Metrics
+
+- **Attrition Rate**: Percentage of employees who have left the organization.
+- **Average Age**: Average age of employees.
+- **Average Salary**: Average salary of employees.
+- **Average Years**: Average number of years employees have been with the company.
+- **Gender Distribution**: Distribution of employees by gender.
+
+## Visualizations
+
+1. **Attrition Rate by Education Field (Donut Chart)**: Breakdown of attrition rates by education field.
+2. **Attrition Rate by Age Group (Bar Chart)**: Comparison of attrition rates across different age groups.
+3. **Job Role Distribution (Table)**: Tabular representation of job roles within the organization.
+4. **Attrition Rate by Salary (Bar Chart)**: Analysis of attrition rates based on salary brackets.
+5. **Attrition Rate Trends (Line Chart)**: Trend analysis of attrition rates over the years.
+6. **Attrition Rate by Job Role (Bar Chart)**: Comparison of attrition rates across different job roles.
+
+## Usage
+
+1. **Filters**: Utilize filters to drill down into specific segments of the workforce.
+2. **Interactivity**: Click on visualizations to cross-filter and highlight relevant data.
+3. **Insights**: Use the dashboard to identify trends and patterns influencing employee attrition.
+4. **Export**: Export visualizations for further analysis or reporting purposes.
+
+## Conclusion
+
+With this Employee Attrition Dashboard, gain valuable insights into employee turnover dynamics and make informed decisions to improve retention strategies and organizational performance.
+
